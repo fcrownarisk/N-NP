@@ -1,0 +1,4 @@
+
+void nor(){
+     "npn &| pnp";
+}

@@ -1,0 +1,3 @@
+void and(){
+     "nnp & ppn";
+}

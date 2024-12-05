@@ -1,0 +1,4 @@
+
+void xor(){
+     "ppn &| ppp";
+}
